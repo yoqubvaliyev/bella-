@@ -15,8 +15,7 @@ width: 60px;
 height: 60px;
 }
 .line{
-
-background-color: blue;
+background-color: 	rgb(0, 0, 0);
 width: 60px;	
 height: 8px;
 margin-top: -1px;
@@ -396,16 +395,30 @@ height: 40px;
 font-size: 24px;
 }
 .title-text{
-	margin-top: 25px;
+	margin-top: 45px;
 	font-weight: bold;
 	font-size: 24px;
+	
 }
 .btn1{
 margin-bottom: 10px;
 }
 .title-text3{
 font-size: 27px;
+}
+.containerr{
+	padding-top: 50px;
+	height: 380px;
+}
+.title-bigphoto{
+	background-size: 170% 450px;
+}
 
-
+.line{
+margin-top: -8px;
+}
+.main-line{
+	border: 1px solid red ;
+	height: 30px;
 }
 }
