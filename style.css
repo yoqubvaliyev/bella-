@@ -65,6 +65,7 @@ width: 1400px;
 	background-size: 100%;
 }
 .title-text{
+	padding-top: 100px;
 color: white;
 font-size: 40px;
 font-family: sans-serif;
@@ -418,7 +419,7 @@ font-size: 27px;
 margin-top: -8px;
 }
 .main-line{
-	border: 1px solid red ;
+
 	height: 30px;
 }
 }
